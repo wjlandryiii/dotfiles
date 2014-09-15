@@ -32,12 +32,6 @@ set colorcolumn=80
 
 
 
-" column width of a tab
-set tabstop=4
-" used with reindent operators (<< and >>)
-set shiftwidth=4
-" converts tabs to spaces
-set expandtab
 
 " Shows line and column number
 set ruler
