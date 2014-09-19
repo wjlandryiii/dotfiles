@@ -23,7 +23,7 @@ vnoremap > >gv
 set number
 
 syntax enable
-set background=dark
+" set background=dark
 " colorscheme solarized
 set colorcolumn=80
 
@@ -38,4 +38,4 @@ set ruler
 
 " hilights current line and column
 set cursorline
-set cursorcolumn
+" set cursorcolumn
