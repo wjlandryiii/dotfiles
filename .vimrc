@@ -23,7 +23,7 @@ vnoremap > >gv
 set number
 
 syntax enable
-set background=dark
+" set background=dark
 " colorscheme solarized
 set colorcolumn=80
 
@@ -32,16 +32,10 @@ set colorcolumn=80
 
 
 
-" column width of a tab
-set tabstop=4
-" used with reindent operators (<< and >>)
-set shiftwidth=4
-" converts tabs to spaces
-set expandtab
 
 " Shows line and column number
 set ruler
 
 " hilights current line and column
 set cursorline
-set cursorcolumn
+" set cursorcolumn
