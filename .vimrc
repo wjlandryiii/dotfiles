@@ -39,3 +39,6 @@ set ruler
 " hilights current line and column
 set cursorline
 " set cursorcolumn
+
+" highlight searches
+set hlsearch
