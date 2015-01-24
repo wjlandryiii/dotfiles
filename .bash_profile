@@ -7,4 +7,5 @@ if [[ $UNAME == 'Darwin' ]]; then
     alias machoview='open -a /Applications/MachOView.app/Contents/MacOS/MachOView'
     alias subl='/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl'
     alias 010='open -a /Applications/010\ Editor.app'
+    alias ls='ls -G'
 fi
