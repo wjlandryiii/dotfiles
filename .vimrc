@@ -24,7 +24,7 @@ set number
 
 syntax enable
 " set background=dark
-" colorscheme solarized
+colorscheme peachpuff
 set colorcolumn=80
 
 " let g:syntastic_python_pylint_args = '--load-plugins pylint_django'
