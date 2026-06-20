@@ -58,3 +58,4 @@ colorscheme molokai
 
 set colorcolumn=80
 set cursorcolumn
+set termguicolors
